@@ -1,0 +1,25 @@
+{
+  "name": "react-starter",
+  "description": "",
+  "main": "",
+  "authors": [
+    "willam <ricardozv_28@hotmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.5",
+    "moment": "^2.11.2",
+    "artyom.js": "^1.0.1",
+    "animate.css": "^3.5.2"
+  }
+}
